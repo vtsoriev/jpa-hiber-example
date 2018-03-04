@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="app-model" />
+        <module name="app-stateful-client" />
+        <module name="app-stateful-server" />
+        <module name="app-stateless-client" />
+        <module name="app-stateless-server" />
+        <module name="app-web" />
+        <module name="environment" />
+        <module name="examples" />
+        <module name="model" />
+        <module name="shared" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="app-model" target="1.7" />
+      <module name="app-stateful-client" target="1.7" />
+      <module name="app-stateful-server" target="1.7" />
+      <module name="app-stateless-client" target="1.7" />
+      <module name="app-stateless-server" target="1.7" />
+      <module name="app-web" target="1.7" />
+      <module name="apps" target="1.7" />
+      <module name="environment" target="1.7" />
+      <module name="examples" target="1.7" />
+      <module name="jpwh" target="1.7" />
+      <module name="model" target="1.7" />
+      <module name="shared" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

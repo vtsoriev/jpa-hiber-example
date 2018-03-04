@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/apps/app-model/app-model.iml" filepath="$PROJECT_DIR$/apps/app-model/app-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apps/app-stateful-client/app-stateful-client.iml" filepath="$PROJECT_DIR$/apps/app-stateful-client/app-stateful-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apps/app-stateful-server/app-stateful-server.iml" filepath="$PROJECT_DIR$/apps/app-stateful-server/app-stateful-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apps/app-stateless-client/app-stateless-client.iml" filepath="$PROJECT_DIR$/apps/app-stateless-client/app-stateless-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apps/app-stateless-server/app-stateless-server.iml" filepath="$PROJECT_DIR$/apps/app-stateless-server/app-stateless-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apps/app-web/app-web.iml" filepath="$PROJECT_DIR$/apps/app-web/app-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apps/apps.iml" filepath="$PROJECT_DIR$/apps/apps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/environment/environment.iml" filepath="$PROJECT_DIR$/environment/environment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/examples.iml" filepath="$PROJECT_DIR$/examples/examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jpwh.iml" filepath="$PROJECT_DIR$/jpwh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/model/model.iml" filepath="$PROJECT_DIR$/model/model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shared/shared.iml" filepath="$PROJECT_DIR$/shared/shared.iml" />
+    </modules>
+  </component>
+</project>
